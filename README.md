@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oluwaskemi (Kemi) Idowu @oidowu23
-- 👀 I’m work as an Analytics Engineer and I'm interested in using Github to save my SQL and Python codes as I improve my knowledge.
+- 👀 I work as an Analytics Engineer and I'm interested in using Github to save my SQL and Python codes as I improve my knowledge.
 - 🌱 I’m currently learning Intermediate/ Advanced SQL and Python
 - 📫 How to reach me on LinkedIn at Kemi Idowu.
 
